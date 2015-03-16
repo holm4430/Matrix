@@ -1,0 +1,4 @@
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.dll
+C:\Users\Kevin\Documents\Visual Studio 2013\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
